@@ -1,7 +1,5 @@
 ### Hi there, i'm Artur Ribeiro! 😊 👋🏾
 
-Here are some ideas to get you started:
-
 - 🎓 I’m currently pursuing a Bachelor Degree in **Computer Science** on the Federal University of São Carlos _campus_ Sorocaba.
 - 🔭 I’m currently looking to work with Mobile using **React Native** and/or **Flutter**.
 - 🌱 I’m currently learning **C#** by developing API's using MVC with Facade patterns and implementing unity tests.

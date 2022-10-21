@@ -3,7 +3,9 @@
 - 🎓 I’m currently pursuing a Bachelor Degree in **Computer Science** on the Federal University of São Carlos _campus_ Sorocaba.
 - 🔭 I’m currently looking to work with Mobile using **React Native** and/or **Flutter**.
 - 🌱 I’m currently learning **C#** by developing API's using MVC with Facade patterns and implementing unity tests.
+- 🎶 One thing about me is that I love everything that it's related with music, from playing instruments, singing and dancing. 
 - 😄 Pronouns: He/Him
+<!--- and I aim to contribute with this one day --->
 <!---
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
